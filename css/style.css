@@ -1,0 +1,53 @@
+body 
+{
+     text-align: center;
+     font-family: sans-serif;
+}
+
+.baslik1
+{
+    color: red;
+    font-size: 40px;   
+    
+    
+}
+
+.baslik2
+{
+    color: purple;
+    font-size: 30px;
+    
+
+}
+
+.baslik3
+{
+    color: orange;
+    font-size: 18px;
+
+}
+
+ul
+{
+    list-style-position: inside;
+
+}
+
+ol
+{
+    list-style-position: inside;
+
+}
+
+img
+{
+    width:800px ;
+    height: 600px;
+}
+
+.sol
+{
+    text-align: left;
+}
+
+
