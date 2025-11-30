@@ -1,0 +1,104 @@
+body
+{
+    text-align: center;
+}
+.box
+{
+    width: 2000px;
+    height: auto;
+    
+}
+
+.kutu1
+{
+
+   margin-right: 470px;  
+    margin-top: 0px;
+       
+}
+.kutu2
+{
+    background-color: rgb(228, 228, 228);
+    margin-right: 50px;
+    margin-left: 50px;
+    height: 65px;
+    text-align: center;
+    font-size: 15px;
+    width: 1400px;
+    margin-bottom: 0;
+    margin-top: 0;
+    
+}
+.kutu3
+{
+    text-align: center;
+    background-color: rgb(65, 227, 211);
+    margin-left: 50px;
+    width: 600px;
+    height: 90px;
+    float: left;
+    font-size: 17px;
+    line-height: 3px;
+
+}
+.kutu4
+{
+    text-align: center;
+    background-color: rgb(57, 206, 191);
+    width: 196px;
+    height: 90px;
+    margin-top: 0;
+    margin-bottom: 0;
+    float: left;
+    font-size: 13px;
+    line-height: 3px;
+    margin-left: 2px;
+    
+    
+    
+}
+.kutu5
+{
+    text-align: center;
+    background-color:rgb(53, 189, 175);
+    width: 600px;
+    height: 90px;
+    float: left;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 3px;
+    font-size: 13px;
+    margin-right: 50px;
+    margin-left: 2px;
+    
+    
+}
+
+img
+{
+    width: 400px;
+    height: 200 px;
+}
+
+.cp
+{
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+#txtbox
+{
+    margin: 1px;
+}
+#btn1
+{
+    font-size: 13px;
+}
+#btn2
+{
+     font-size: 13px;
+}
+#btn3
+{
+    font-size: 13px;
+}
